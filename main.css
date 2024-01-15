@@ -1,0 +1,168 @@
+body {
+  background-color: #3570D6;
+}
+.navbar{
+  background-color: #3570D6;
+  color: white;
+}
+.navigasi-link{
+  color: white;
+  font-size: 30px;
+}
+.navigasi-jarak{
+  margin-right: 20px;
+}
+.navbar-nav .nav-item:hover .nav-link{
+  color: #a1a0a0; 
+}
+.navbar-brand p{
+  font-weight: 600;
+  padding-left: 10px;
+  font-family: Poppins, sans-serif;
+  margin: 0px;
+  color: white;
+  transform: translateY(17%);
+}
+.navbar-brand img{
+  border: white; 
+  border-radius: 50%;
+}
+.navbar-brand{
+  padding-left: 30px;
+}
+.navbar-nav li a p{
+  text-align: center;
+  font-weight: 100;
+  font-size:medium;
+  font-family: 'Poppins', sans-serif; 
+  margin: 0px;
+}
+.navbar-nav li a .selected{
+  text-align: center;
+  font-weight: 600;
+  font-size:medium;
+  font-family: 'Poppins', sans-serif; 
+  margin: 0px;
+}
+.tombol-daftar{
+  color:white;
+  text-align: center;
+  font-weight: 600;
+  font-size:medium;
+  font-family: 'Poppins', sans-serif; 
+  margin: 0px;
+  padding: 5px;
+}
+.tombol-masuk{
+  color: black;
+  text-align: center;
+  font-weight: 600;
+  font-size:medium;
+  font-family: 'Poppins', sans-serif; 
+  margin: 0px;
+  background-color: white;
+  padding: 5px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+a{
+  text-decoration: none;
+}
+.ingin-belajar-apa h2{
+  color:white;
+  font-weight: 600;
+  font-family: 'Poppins', sans-serif; 
+  margin: 0px;
+  padding: 5px;
+}
+.ingin-belajar-apa p{
+  color:white;
+  font-weight: 600;
+  font-family: 'Poppins', sans-serif; 
+  margin: 0px;
+  padding: 5px;
+}
+.baliho-dashboard{
+  background-color: grey;
+  width: 80%;
+  height: 300px;
+}
+.tombol-cari-pelajaran{
+  background-color: #6197EF;
+  color: black;
+  outline: 2px solid #000000;
+}
+.text-input-cari-pelajaran{
+  outline: 2px solid #000000;
+}
+.kenapa-belajar-di h2{
+  text-align: center;
+  color:white;
+  font-weight: 600;
+  font-family: 'Poppins', sans-serif; 
+  margin: 0px;
+}
+.colored-card {
+  border-radius: 10px; 
+  overflow: hidden;
+}
+
+.colored-card .top-part {
+  background-color: #6197EF; 
+  color: white; 
+  padding: 20px;
+}
+
+.thin-text{
+  color: white;
+  font-weight: 100;
+  font-family: 'Poppins', sans-serif; 
+}
+.semibold-text{
+  color: white;
+  font-weight: 600;
+  font-family: 'Poppins', sans-serif; 
+}
+.carousel-control-next.talenta{
+  background-color: #6197EF;
+  width: 5vh;
+  height: 5vh;
+  border-radius: 50%;
+  top: 50%;
+  padding: 7px;
+  transform: translate(-450%,540%);
+}
+.carousel-control-prev.talenta{
+  background-color: #6197EF;
+  width: 5vh;
+  height: 5vh;
+  border-radius: 50%;
+  top: 50%;
+  padding: 7px;
+  transform: translate(3100%,540%);
+}
+.card-text{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.text-center{
+  text-align: center;
+}
+.arial-light{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  margin: 0px;
+}
+.arial-bold{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  margin: 0px;
+}
+.card{
+  border: none;
+}
+.garis-horizontal-atas{
+  width: 85%;
+  border-top: 3px solid #6197EF;
+  align-self: center;
+  padding: 0%;
+}
