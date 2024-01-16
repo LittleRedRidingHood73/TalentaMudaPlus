@@ -123,6 +123,29 @@ a{
   font-weight: 600;
   font-family: 'Poppins', sans-serif; 
 }
+.genre-kelas{
+  background-color: #DBF1FE;
+  color: #349EEE;
+  font-size: 9px;
+}
+.carousel-control-next.kelas{
+  background-color: #6197EF;
+  width: 7vh;
+  height: 7vh;
+  border-radius: 50%;
+  top: 50%;
+  padding: 7px;
+  transform: translate(-150%,-45%)
+}
+.carousel-control-prev.kelas{
+  background-color: #6197EF;
+  width: 7vh;
+  height: 7vh;
+  border-radius: 50%;
+  top: 50%;
+  padding: 7px;
+  transform: translate(150%,-45%)
+}
 .carousel-control-next.talenta{
   background-color: #6197EF;
   width: 5vh;
@@ -165,4 +188,62 @@ a{
   border-top: 3px solid #6197EF;
   align-self: center;
   padding: 0%;
+}
+.difficulty-kelas-icon{
+  padding: 0px;
+  padding-left: 10px;
+}
+.difficulty-kelas-text{
+  padding: 2px;
+  font-size: 12px;
+  transform: translateY(10%);
+}
+.rating-kelas-icon{
+  padding: 0px;
+  padding-left: 10px;
+}
+.rating-kelas-text{
+  padding: 2px;
+  font-size: 12px;
+  color: #67C624;
+  transform: translateY(10%);
+}
+.nama-pengajar-kelas{
+  font-size: 13px;
+}
+.title-pengajar-kelas{
+  font-size: 10px;
+}
+.before-discount{
+  color: grey;
+  font-size: 13px;
+  text-decoration: line-through;
+}
+.tombol-kelas-wrapper{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.tombol-preview{
+  color: #FFA62B;
+  margin-top: 10px;
+  max-height: 30px;
+  border-radius: 7%;
+  border: solid #FFA62B;
+  font-size: 12px;
+}
+.tombol-beli{
+  margin-top: 10px;
+  max-height: 30px;
+  border: solid #4A90E2;
+  background-color: #4A90E2;
+  border-radius: 7%;
+  
+}
+.preview-text{
+  color: #FFA62B;
+  font-size: 12px;
+}
+.beli-text{
+  color: white;
+  font-size: 12px;
 }
